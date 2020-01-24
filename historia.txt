@@ -1,5 +1,1 @@
-Esta es la historia de Victor Noguera.
-
-Nacio en Bogota y tiene 30 años.
-
-Me gusta la idea de ser un gran desarrollador de software y enfocarme en el analisis de datos e inteligencia artificial.
+Este es un texto de ejemplo. Solo para validar cambios en repositorio local y remoto.
